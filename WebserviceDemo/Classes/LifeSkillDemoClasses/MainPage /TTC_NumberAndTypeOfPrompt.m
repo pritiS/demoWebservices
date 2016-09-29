@@ -4,7 +4,7 @@
 //
 //  Created by Priti Suthar on 7/6/16.
 //  Copyright © 2016 Priti Suthar. All rights reserved.
-//
+//  create collection view scrollable on both side in objective C without moving headers and indexes...
 
 #import "TTC_NumberAndTypeOfPrompt.h"
 #import "PromptTypeCollectionCell.h"
